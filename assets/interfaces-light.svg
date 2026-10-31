@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="216" viewBox="0 0 840 216" role="img" aria-label="Interfaces — fast, accessible, pixel-careful UI for web, desktop and mobile">
+<title>Interfaces — fast, accessible, pixel-careful UI for web, desktop and mobile</title>
+<style>.sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}.mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}</style>
+<text class="mono" x="2" y="38" font-size="12" letter-spacing="0.5" fill="#59636e">// WHAT I DO</text>
+<g transform="translate(0,58)">
+<rect x="0.5" y="0.5" width="839" height="157" rx="14" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="24" y="24" width="40" height="40" rx="10" fill="#ddf4ff"/>
+<rect x="33" y="35" width="22" height="18" rx="3" fill="none" stroke="#0969da" stroke-width="2"/><path d="M33 41H55M40 41V53" fill="none" stroke="#0969da" stroke-width="2"/>
+<text class="sans" x="80" y="42" font-size="16" font-weight="600" fill="#1f2328">Interfaces</text>
+<text class="sans" x="80" y="63" font-size="13.5" fill="#59636e">Fast, accessible, pixel-careful UI for web, desktop and mobile.</text>
+<rect x="24.5" y="86.5" width="791" height="47" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<text class="mono" x="44" y="115" font-size="13.5" fill="#1f2328" opacity="1"><animate attributeName="opacity" values="1;0;0" keyTimes="0;0.333;0.667" calcMode="discrete" dur="15s" repeatCount="indefinite"/>Done — responsive, themeable, fully keyboard-accessible.</text><text class="mono" x="44" y="115" font-size="13.5" fill="#1f2328" opacity="0"><animate attributeName="opacity" values="0;1;0" keyTimes="0;0.333;0.667" calcMode="discrete" dur="15s" repeatCount="indefinite"/>Shipped with zero layout shift and 60fps transitions.</text><text class="mono" x="44" y="115" font-size="13.5" fill="#1f2328" opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.333;0.667" calcMode="discrete" dur="15s" repeatCount="indefinite"/>Dark mode, reduced motion, screen readers: covered.</text><rect x="792" y="96" width="0" height="28" fill="#ffffff"><animate attributeName="x" values="40;792;792;40;792;792;40;792;792;40" keyTimes="0;0.16;0.333;0.333;0.493;0.666;0.667;0.827;0.999;1" dur="15s" repeatCount="indefinite"/><animate attributeName="width" values="752;0;0;752;0;0;752;0;0;752" keyTimes="0;0.16;0.333;0.333;0.493;0.666;0.667;0.827;0.999;1" dur="15s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
